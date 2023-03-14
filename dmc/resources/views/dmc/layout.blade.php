@@ -37,6 +37,10 @@
     <li class="p-1">Settings </li>
     <li class="p-1">Admin </li>
 </ul>
+<ul style="list-style-type:none;"> <b>BlockChain</b>
+    <li class="p-1">Block Mangement</li>
+    <li class="p-1">View Block</li>
+</ul>
 <ul style="list-style-type:none;"> <b>MISC</b>
     <li class="p-1">Docments</li>
     <li class="p-1">Github</li>
